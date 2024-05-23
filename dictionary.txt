@@ -1,4 +1,5 @@
 Raesfeld: a municipality in the German state of North Rhine-Westphalia
+Flughafen: airport
 Berlin: the capital of Germany
 Bratwurst: sausage
 Hauptstrasse: main street
