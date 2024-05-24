@@ -23,3 +23,4 @@ Apfelkuchen: apple cake
 Schloss Eltz: a medieval castle in Germany 
 Schätze: Treasure
 Rucksack: Back pack
+Geheimnis: Mystery.
