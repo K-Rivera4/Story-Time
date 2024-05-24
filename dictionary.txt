@@ -21,6 +21,3 @@ Hund: dog
 Doener: doner kebab is a A Turkish dish in which meat is sliced off and served with fresh vegetables in pita or rolled in a piece of unleavened flatbread
 Apfelkuchen: apple cake
 Schloss Eltz: a medieval castle in Germany 
-Schätze: Treasure
-Rucksack: Back pack
-Geheimnis: Mystery.
